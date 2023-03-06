@@ -1,0 +1,19 @@
+
+# dependencies
+front/node_modules
+front/.pnp
+front/.pnp.js
+server/node_modules
+
+
+# testing
+
+# production
+/build
+
+# misc
+front/.DS_Store
+front/.env
+server/.env
+
+
